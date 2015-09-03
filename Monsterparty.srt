@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:03,117
 <b>PŘED 65 MILIONY LET</b>
 
@@ -54,7 +54,7 @@ Perfektní!
 
 13
 00:01:24,550 --> 00:01:26,250
-Dobře načasovat ranní rituál.
+Dobře načasovaný ranní rituál.
 Hotovo.
 
 14
@@ -79,11 +79,11 @@ Akorát si to musíš dát dohromady.
 18
 00:01:39,817 --> 00:01:43,617
 Díky, že jsi mi to tu
-tak hodil ke dvěřím, Roofhowsi.
+tak hodil ke dveřím, Roofhowsi.
 
 19
 00:01:44,417 --> 00:01:45,983
-<u>Máte i zbytek?</u>
+Máte i zbytek?
 
 20
 00:01:45,983 --> 00:01:50,350
@@ -255,7 +255,7 @@ Kapitán Rockhopper říkal,
 56
 00:04:11,550 --> 00:04:15,617
 Cituji: „Tolik ledu,
-že by naplnil žaludky tisíců velryb!“
+že by naplnil žaludky tisíce velryb!“
 
 57
 00:04:16,666 --> 00:04:18,510
@@ -264,7 +264,7 @@ kapitána Rockhoppera.
 
 58
 00:04:18,517 --> 00:04:23,583
-Lorno, prosím tě řekni mi, že si
+Lorno, prosím tě řekni mi, že jsi
 osud téhle párty nesvěřila do rukou
 
 59
@@ -322,12 +322,12 @@ Souhlasíš, Yarre?
 70
 00:05:17,250 --> 00:05:19,017
 Skvělé.
-To je Gary, v ynálezce.
+To je Gary, vynálezce.
 
 71
 00:05:19,017 --> 00:05:22,217
 Objednal si tu někdo
-Zmrlinovač 3000?
+Zmrzlinovač 3000?
 
 72
 00:05:25,983 --> 00:05:27,617
@@ -392,7 +392,7 @@ hexagonální šlehač?
 85
 00:06:00,550 --> 00:06:04,950
 Dokáže dvojitý elektronový prognostikátor
-generovat vlastní elektromagneticko-kvantové pole?
+generovat vlastní elektromagnetické kvantové pole?
 
 86
 00:06:05,317 --> 00:06:06,317
@@ -416,7 +416,7 @@ To by mělo stačit.
 
 91
 00:06:14,850 --> 00:06:19,850
-Tenhle vynález je perfektní  kombinací stroje
+Tenhle vynález je perfektní kombinací stroje
 na dezerty a párty stroje do jakéhokoliv terénu.
 
 92
@@ -539,7 +539,7 @@ kurz k tomu ledovci!
 
 118
 00:07:51,817 --> 00:07:56,983
-Čas se pobavit.
+Čas na trochu srandy.
 Dárek od Herberta P. Medvěda.
 
 119
@@ -591,7 +591,7 @@ Tak tohle nevypadá dobře.
 
 129
 00:09:05,083 --> 00:09:06,217
-U vrtulkové čepice!
+U čepice s vrtulkou!
 
 130
 00:09:06,383 --> 00:09:09,883
@@ -760,7 +760,7 @@ Dávej na ni pozor, bestie!
 166
 00:11:40,160 --> 00:11:43,000
 Zrovna jsem si
-pořídil novou výřivku.
+pořídil novou vířivku.
 
 167
 00:11:47,920 --> 00:11:49,400
