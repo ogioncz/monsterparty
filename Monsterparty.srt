@@ -3,9 +3,9 @@
 <b>PŘED 65 MILIONY LET</b>
 
 2
-00:00:26,683 --> 00:00:29,050
+00:00:26,600 --> 00:00:29,050
 Ta doba
-ledová si tedy pospíšit.
+ledová si teda pospíšit.
 
 3
 00:00:29,183 --> 00:00:30,083
@@ -489,7 +489,7 @@ Dáme to na jedenáctku!
 107
 00:07:07,217 --> 00:07:16,183
 Obávám se, že by integrita tohoto ledovce mohla
- být narušena tou nepopsatelně skvělou hudbou.
+být narušena tou nepopsatelně skvělou hudbou.
 
 108
 00:07:16,183 --> 00:07:18,050
@@ -835,7 +835,7 @@ Pohleďte, Sněhospěchač 1!
 183
 00:12:36,350 --> 00:12:40,717
 Tohle děťátko je v podstatě velký
- motor, který nás pomocí podupávání
+motor, který nás pomocí podupávání
 
 184
 00:12:41,117 --> 00:12:43,183
