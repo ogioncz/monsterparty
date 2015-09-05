@@ -16,11 +16,11 @@ Uga uga.
 <b>O 65 MILIONŮ LET POZDĚJI</b>
 
 5
-00:00:48,417 --> 00:00:49,883
+00:00:48,288 --> 00:00:49,880
 Další perfektní ráno.
 
 6
-00:00:52,717 --> 00:00:53,450
+00:00:52,511 --> 00:00:53,450
 Vstát.
 Hotovo.
 
@@ -39,7 +39,7 @@ a odebrání seznamu. Hotovo.
 A hotovo.
 
 10
-00:01:13,917 --> 00:01:17,050
+00:01:13,666 --> 00:01:17,050
 Dobré ráno, perfektní,
 podle barvy seřazený šatníku.
 
@@ -58,7 +58,7 @@ Dobře načasovaný ranní rituál.
 Hotovo.
 
 14
-00:01:26,250 --> 00:01:29,150
+00:01:26,644 --> 00:01:29,150
 Vzít seznam úkolů na párty.
 Hotovo.
 
@@ -86,21 +86,21 @@ tak hodil ke dveřím, Roofhowsi.
 Máte i zbytek?
 
 20
-00:01:45,983 --> 00:01:50,350
+00:01:45,980 --> 00:01:50,066
 Jo, mám klobouk,
 sluneční brýle a lehké letní čtení.
 
 21
-00:01:50,350 --> 00:01:52,350
+00:01:50,155 --> 00:01:52,644
 Příručku našeho ostrova.
 
 22
-00:01:54,883 --> 00:01:56,417
+00:01:54,755 --> 00:01:56,410
 To nevypadá
 na lehké čtení, Lorno.
 
 23
-00:01:56,417 --> 00:02:01,883
+00:01:57,533 --> 00:02:01,880
 Je fascinující.
 Tolik toho o ostrově nevíme!
 
@@ -109,12 +109,12 @@ Tolik toho o ostrově nevíme!
 Legendy, záhady, recepty!
 
 25
-00:02:06,150 --> 00:02:07,317
+00:02:05,955 --> 00:02:07,310
 - Recepty?
 - Jo.
 
 26
-00:02:07,683 --> 00:02:10,783
+00:02:07,533 --> 00:02:10,780
 Třeba tyhle skvělé
 vafle s želé a sardinkami.
 
@@ -151,11 +151,11 @@ A to nejdůležitější…
 Držet se plánu.
 
 34
-00:02:36,450 --> 00:02:38,050
+00:02:36,355 --> 00:02:38,050
 Zdá se, že plán se drží mě.
 
 35
-00:02:39,683 --> 00:02:40,717
+00:02:39,444 --> 00:02:40,710
 Tak jsem to nemyslela.
 
 36
@@ -164,7 +164,7 @@ Víš, někdy
 neuškodí brát věci v klidu.
 
 37
-00:02:45,283 --> 00:02:48,617
+00:02:45,866 --> 00:02:48,610
 Já jsem klidná, Lorno.
 
 38
@@ -173,7 +173,7 @@ Já jsem klidná, Lorno.
 MONSTRÓZNÍ PLÁŽOVÁ PÁRTY</b>
 
 39
-00:02:59,450 --> 00:03:04,783
+00:02:59,311 --> 00:03:04,780
 <i>Sluníčko, píseček, DJ připraven.
 Míče, prkna, opalovací krémy ven!</i>
 
@@ -197,7 +197,7 @@ Tyhle rytmy jsou super, super chytlavý!</i>
 Zvládnu to perfektně teďka taky!</i>
 
 44
-00:03:27,450 --> 00:03:31,550
+00:03:27,266 --> 00:03:31,550
 <i>Je tu léto, prázdniny, pojďte ven na slunce!</i>
 
 45
@@ -206,17 +206,17 @@ Zvládnu to perfektně teďka taky!</i>
 - Tak jdeme na to.
 
 46
-00:03:33,717 --> 00:03:40,617
+00:03:34,000 --> 00:03:40,610
 Zdravím, pláži, mazák Rookie se
 hlásí živě z první surfovo-kornoutové soutěže.
 
 47
-00:03:41,017 --> 00:03:43,983
+00:03:40,933 --> 00:03:43,980
 Mrkejte na to,
 stylově servírované ledové drinky!
 
 48
-00:03:44,283 --> 00:03:49,183
+00:03:44,133 --> 00:03:49,311
 <i>Tohle bude ta nej plážová párty,
 protože to zvládnu perfektně teďka taky.</i>
 
@@ -226,7 +226,7 @@ protože to zvládnu perfektně teďka taky.</i>
 pojďte ven a celý den.</i>
 
 50
-00:03:53,817 --> 00:03:57,317
+00:03:53,733 --> 00:03:57,310
 <i> - Co by se asi tak mohlo pokazit?</i>
 - <i>Mohlo pokazit…</i>
 
@@ -236,15 +236,15 @@ pojďte ven a celý den.</i>
 - <i>Co by se asi tak mohlo pokazit?</i>
 
 52
-00:04:01,488 --> 00:04:05,910
+00:04:01,288 --> 00:04:05,910
 <i>Mohlo pokazit…</i>
 
 53
-00:04:07,083 --> 00:04:08,217
+00:04:07,200 --> 00:04:08,210
 Kde máme led?
 
 54
-00:04:08,217 --> 00:04:09,683
+00:04:08,800 --> 00:04:09,680
 Je na cestě.
 
 55
@@ -258,12 +258,12 @@ Cituji: „Tolik ledu,
 že by naplnil žaludky tisíce velryb!“
 
 57
-00:04:16,666 --> 00:04:18,510
+00:04:16,644 --> 00:04:18,510
 To jsem imitovala
 kapitána Rockhoppera.
 
 58
-00:04:18,517 --> 00:04:23,583
+00:04:18,977 --> 00:04:23,580
 Lorno, prosím tě řekni mi, že jsi
 osud téhle párty nesvěřila do rukou
 
@@ -273,12 +273,12 @@ tomu směšnému pirátovi.
 My ten led potřebujeme.
 
 60
-00:04:27,183 --> 00:04:29,517
+00:04:26,911 --> 00:04:29,711
 Pozor!
 Slyšel jsem něco o ledu?
 
 61
-00:04:32,950 --> 00:04:35,417
+00:04:32,755 --> 00:04:35,410
 Vidíš?
 Být v klidu se vyplácí.
 
@@ -287,26 +287,26 @@ Být v klidu se vyplácí.
 Obzvlášť když jde o ledovou kru.
 
 63
-00:04:38,383 --> 00:04:39,083
+00:04:38,200 --> 00:04:38,866
 Velmi vtipné.
 
 64
-00:04:39,083 --> 00:04:41,817
+00:04:38,911 --> 00:04:41,810
 Dost bylo vtipů.
 Máš zpoždění, piráte líná!
 
 65
-00:04:41,817 --> 00:04:45,850
+00:04:42,377 --> 00:04:45,850
 Co říkala?
 Že jsem skvělý a úžasný pirát?
 
 66
-00:04:45,850 --> 00:04:49,217
+00:04:46,466 --> 00:04:49,210
 Slyšíš to, Yarre?
 Říkal jsem, že si myslí, že jsem super.
 
 67
-00:04:54,688 --> 00:04:57,610
+00:04:54,577 --> 00:04:57,610
 Tak tady to je.
 Jeden zcela nepoškozený ledovec.
 
@@ -316,21 +316,21 @@ Jsem hotov,
 takže je čas si dáchnout.
 
 69
-00:05:04,483 --> 00:05:05,817
+00:05:04,733 --> 00:05:05,810
 Souhlasíš, Yarre?
 
 70
-00:05:17,250 --> 00:05:19,017
+00:05:17,133 --> 00:05:19,010
 Skvělé.
 To je Gary, vynálezce.
 
 71
-00:05:19,017 --> 00:05:22,217
+00:05:19,377 --> 00:05:22,210
 Objednal si tu někdo
 Zmrzlinovač 3000?
 
 72
-00:05:25,983 --> 00:05:27,617
+00:05:25,755 --> 00:05:27,610
 Sydmulle, děje se něco?
 
 73
@@ -348,7 +348,7 @@ Chňaponorku 3000 a dokonce…
 - 3000?
 
 76
-00:05:36,917 --> 00:05:38,317
+00:05:37,333 --> 00:05:38,310
 Ty si o něm slyšela!
 
 77
@@ -362,11 +362,11 @@ Jsi přece na párty!
 Bav se!
 
 79
-00:05:44,150 --> 00:05:46,150
+00:05:44,150 --> 00:05:46,066
 Jdu se bavit!
 
 80
-00:05:46,150 --> 00:05:48,150
+00:05:46,466 --> 00:05:48,400
 Podpořit zábavu.
 Hotovo.
 
@@ -381,13 +381,13 @@ Gary… Miluju vědu!
 Gary!
 
 83
-00:05:54,950 --> 00:05:57,250
+00:05:55,577 --> 00:05:57,250
 Fanoušek vědy?
 
 84
 00:05:57,450 --> 00:06:00,350
 Podal bys mi ten
-hexagonální šlehač?
+hexagonální flagnarátor?
 
 85
 00:06:00,550 --> 00:06:04,950
@@ -395,7 +395,7 @@ Dokáže dvojitý elektronový prognostikátor
 generovat vlastní elektromagnetické kvantové pole?
 
 86
-00:06:05,317 --> 00:06:06,317
+00:06:05,133 --> 00:06:06,310
 V úterý?
 
 87
@@ -411,11 +411,11 @@ Plácni!
 Páni!
 
 90
-00:06:13,817 --> 00:06:14,850
+00:06:13,644 --> 00:06:14,733
 To by mělo stačit.
 
 91
-00:06:14,850 --> 00:06:19,850
+00:06:14,777 --> 00:06:19,850
 Tenhle vynález je perfektní kombinací stroje
 na dezerty a párty stroje do jakéhokoliv terénu.
 
@@ -428,11 +428,11 @@ Teď už potřebuje jen energii.
 Hudební energii!
 
 94
-00:06:23,880 --> 00:06:25,217
+00:06:24,311 --> 00:06:25,210
 Páni!
 
 95
-00:06:28,217 --> 00:06:29,450
+00:06:28,088 --> 00:06:29,450
 Přišel čas si zatančit!
 
 96
@@ -457,7 +457,7 @@ na menší kousky.
 100
 00:06:43,610 --> 00:06:45,610
 Kousky se pak
-nasají do trubky
+nasají do trubky.
 
 101
 00:06:45,610 --> 00:06:49,250
@@ -475,7 +475,7 @@ Perfektní ledový kornout
 na perfektní plážové párty.
 
 104
-00:06:56,350 --> 00:06:58,350
+00:06:56,466 --> 00:06:58,350
 Dej to na maximální výkon!
 
 105
@@ -487,8 +487,8 @@ To mi nemusíš říkat dvakrát!
 Dáme to na jedenáctku!
 
 107
-00:07:07,217 --> 00:07:16,183
-Obávám se, že by integrita tohoto ledovce mohla
+00:07:07,044 --> 00:07:16,180
+Obávám se, Jangrah, že by integrita tohoto ledovce mohla
 být narušena tou nepopsatelně skvělou hudbou.
 
 108
@@ -520,7 +520,7 @@ Tučňáci, surfovo-kournoutová
 párty oficiálně začíná!
 
 114
-00:07:38,483 --> 00:07:41,883
+00:07:38,133 --> 00:07:41,880
 Proč vždycky když se
 dočkám trochy klidu a míru,
 
@@ -529,16 +529,16 @@ dočkám trochy klidu a míru,
 tučňáci uspořádají párty.
 
 116
-00:07:48,250 --> 00:07:49,217
+00:07:48,022 --> 00:07:49,210
 Aha, už to vidím.
 
 117
-00:07:49,217 --> 00:07:51,817
+00:07:49,466 --> 00:07:51,810
 Klutzy, nastav
 kurz k tomu ledovci!
 
 118
-00:07:51,817 --> 00:07:56,983
+00:07:52,317 --> 00:07:56,983
 Čas na trochu srandy.
 Dárek od Herberta P. Medvěda.
 
@@ -552,17 +552,17 @@ zapomněl na naše velmi přesvědčivé převleky.
 Na tučňáka jsi dost velký.
 
 121
-00:08:22,917 --> 00:08:24,750
+00:08:22,777 --> 00:08:24,750
 Skvělé!
 Určitě hraješ ploutvoball.
 
 122
-00:08:25,183 --> 00:08:29,717
+00:08:25,088 --> 00:08:29,888
 Ano, hraju ploutvoball, protože…
 Jsem tučňák…
 
 123
-00:08:29,717 --> 00:08:32,883
+00:08:29,911 --> 00:08:32,880
 Ty jsi tučňák…
 Všichni jsme tučňáci!
 
@@ -577,7 +577,7 @@ Pardon, prochází pravý tučňák.
 Děláme tučňáčí zvuky, tučňáčí zvuky.
 
 126
-00:08:45,150 --> 00:08:49,283
+00:08:44,777 --> 00:08:49,280
 Přišel čas překazit
 jim plány hasákem.
 
@@ -586,15 +586,15 @@ jim plány hasákem.
 Hasák, Klutzy.
 
 128
-00:09:01,883 --> 00:09:03,550
+00:09:01,666 --> 00:09:03,550
 Tak tohle nevypadá dobře.
 
 129
-00:09:05,083 --> 00:09:06,217
+00:09:04,977 --> 00:09:06,210
 U čepice s vrtulkou!
 
 130
-00:09:06,383 --> 00:09:09,883
+00:09:06,244 --> 00:09:09,880
 Vypadá to, že ze svého
 ledovcového vězení právě unikl pravěký žralok
 
@@ -621,12 +621,12 @@ To je velký Megalodon,
 pohroma všech sedmi moří!
 
 136
-00:09:21,017 --> 00:09:24,550
+00:09:21,010 --> 00:09:24,800
 Nebo alespoň byl.
 Asi před 65 miliony lety.
 
 137
-00:09:24,550 --> 00:09:27,283
+00:09:24,800 --> 00:09:27,280
 Blizzarde, pohotovost!
 Hned!
 
@@ -636,12 +636,12 @@ Plavčík Blizzard
 se hlásí do služby!
 
 139
-00:09:40,683 --> 00:09:43,283
+00:09:40,511 --> 00:09:43,280
 Kdyby se do toho kostýmu
 vešel někdo jiný, vyhodila bych ho!
 
 140
-00:09:49,150 --> 00:09:49,917
+00:09:49,022 --> 00:09:49,888
 Zaválel jsem!
 
 141
@@ -650,17 +650,17 @@ Nebojte, maličcí. Mám certifikát
 z patnácti pokročilých surfovacích pohybů.
 
 142
-00:09:53,850 --> 00:09:55,850
+00:09:53,866 --> 00:09:55,850
 Dokud jsem v bezpečí já,
 jste v bezpečí i vy.
 
 143
-00:09:57,717 --> 00:10:00,050
+00:09:57,577 --> 00:10:00,050
 Nejsem v bezpečí!
 Nejsem v bezpečí! Držte se!
 
 144
-00:10:02,017 --> 00:10:02,650
+00:10:01,888 --> 00:10:02,650
 Tučňáci!
 
 145
@@ -678,654 +678,651 @@ Konečně. Mé mistrovské
 dílo De Mona Penguina je kompletní.
 
 148
-00:10:17,600 --> 00:10:20,220
+00:10:17,600 --> 00:10:20,488
 Mé mistrovské dílo!
 Je zničená!
 
 149
-00:10:21,100 --> 00:10:22,220
-Vlastně...
-
-150
-00:10:22,220 --> 00:10:23,500
+00:10:21,666 --> 00:10:23,888
+I když... 
 Je to celkem roztomilé.
 
-151
-00:10:24,800 --> 00:10:25,640
+150
+00:10:25,244 --> 00:10:26,088
 Jangrah?
 
-152
-00:10:25,640 --> 00:10:28,540
+151
+00:10:26,266 --> 00:10:28,933
 Které z pěti P při
 plánování párty je tohle?
 
-153
+152
 00:10:30,680 --> 00:10:31,300
 Panika.
 
-154
+153
 00:10:42,600 --> 00:10:44,783
 Dobře, zachovejte klid!
-Přestaňte panikařit!
+Nepanikařte!
 
-155
+154
 00:10:44,850 --> 00:10:48,317
 Strávil jsem spoustu času na moři
 a vím, že rozhodně nesmíte udělat jednu věc…
 
-156
+155
 00:10:53,417 --> 00:10:54,350
 A to tohle…
 
-157
+156
 00:11:00,420 --> 00:11:03,750
 Počkejte!
-Všichni stůjte nebo překlopíme ledovec!
+Všichni stůjte, nebo překlopíme ledovec!
 
-158
-00:11:03,950 --> 00:11:06,120
+157
+00:11:04,377 --> 00:11:06,120
 Kdo ví, co dalšího se pod ním skrývá?
 
-159
+158
 00:11:07,100 --> 00:11:09,600
 Pozor!
 Houpání bylo dost!
 
-160
+159
 00:11:09,600 --> 00:11:13,700
 Pokud tedy nechcete
 svačit v břiše té bestie.
 
-161
-00:11:16,020 --> 00:11:19,480
+160
+00:11:16,020 --> 00:11:19,555
 Naskočte na palubu,
 suchozemské krysy a hurá k pevnině.
 
-162
+161
 00:11:24,050 --> 00:11:24,600
 Ne!
 
-163
-00:11:28,000 --> 00:11:29,100
+162
+00:11:28,000 --> 00:11:29,511
 Opusťte loď!
 
-164
-00:11:32,060 --> 00:11:34,220
+163
+00:11:32,060 --> 00:11:34,533
 Takhle jsem to nemyslel.
 
-165
+164
 00:11:38,220 --> 00:11:40,160
 Dávej na ni pozor, bestie!
 
-166
+165
 00:11:40,160 --> 00:11:43,000
 Zrovna jsem si
 pořídil novou vířivku.
 
-167
+166
 00:11:47,920 --> 00:11:49,400
 Ale no tak!
 
-168
-00:11:53,000 --> 00:11:54,400
+167
+00:11:53,000 --> 00:11:54,688
 Tak jo...
 Tohle je špatné.
 
-169
+168
 00:11:55,217 --> 00:11:58,220
 Jsem si jistá, že tu mám
 někde stránku o záchranách na moři!
 
-170
-00:11:58,220 --> 00:12:01,020
+169
+00:11:58,220 --> 00:12:01,244
 Mám pocit,
 že už jsem ho někde viděla.
 
-171
-00:12:02,020 --> 00:12:02,700
+170
+00:12:01,800 --> 00:12:03,155
 Ale co chce?
 
-172
-00:12:03,900 --> 00:12:06,340
+171
+00:12:03,900 --> 00:12:06,955
 Mám to!
 Možná chce kornout!
 
-173
+172
 00:12:07,050 --> 00:12:07,900
 Blizzarde!
 
-174
+173
 00:12:09,100 --> 00:12:10,200
 Ty jsi génius!
 
-175
-00:12:10,200 --> 00:12:11,050
+174
+00:12:10,511 --> 00:12:11,488
 = Co?
 
-176
-00:12:11,400 --> 00:12:14,000
+175
+00:12:11,755 --> 00:12:14,822
 Gary! Sydmulle!
 Zmrlinovač 3000.
 
-177
+176
 00:12:15,000 --> 00:12:15,980
 A co s ním?
 
-178
+177
 00:12:16,800 --> 00:12:17,650
 A co s ním?
 
-179
+178
 00:12:17,900 --> 00:12:19,900
 Udělejte z něj
 něco užitečného.
 
-180
+179
 00:12:26,240 --> 00:12:28,280
 Věda nás zachrání!
 
-181
+180
 00:12:29,800 --> 00:12:31,017
 Vědci.
 
-182
+181
 00:12:33,240 --> 00:12:35,750
 Pohleďte, Sněhospěchač 1!
 
-183
-00:12:36,350 --> 00:12:40,717
+182
+00:12:36,350 --> 00:12:41,133
 Tohle děťátko je v podstatě velký
 motor, který nás pomocí podupávání
 
-184
-00:12:41,117 --> 00:12:43,183
+183
+00:12:41,133 --> 00:12:43,180
 dostane bezpečně
 zpátky na pevninu.
 
-185
-00:12:46,688 --> 00:12:47,880
+184
+00:12:46,577 --> 00:12:47,880
 Zas tak super to není.
 
-186
-00:12:48,583 --> 00:12:51,817
+185
+00:12:48,580 --> 00:12:51,755
 Nekončí všechny tvé
 vynálezy číslovkou 3000?
 
-187
-00:12:51,817 --> 00:12:56,183
+186
+00:12:51,777 --> 00:12:56,180
 No, obvykle se mi
 předchozích 2999 pokusů nevydaří.
 
-188
+187
 00:12:56,183 --> 00:12:57,717
 Tohle je prototyp.
 
-189
+188
 00:12:57,717 --> 00:12:59,117
 Velmi povzbuzující.
 
-190
+189
 00:12:59,850 --> 00:13:01,850
 Vědec musí být vytrvalý!
 
-191
+190
 00:13:01,850 --> 00:13:04,583
 Tak ho spustíme.
 
-192
+191
 00:13:10,450 --> 00:13:13,117
 A vědec musí své
 vynálezy také přišroubovat.
 
-193
+192
 00:13:22,977 --> 00:13:24,750
 = Věda nás zklamala!
 
-194
+193
 00:13:27,650 --> 00:13:30,117
 A teď plují k obřímu víru.
 
-195
+194
 00:13:30,117 --> 00:13:32,283
 Tak jo,
 tohle je vážně zlé.
 
-196
+195
 00:13:32,283 --> 00:13:36,717
 Zlé? Tahle párty je největší
 katastrofa v historii katastrof!
 
-197
+196
 00:13:36,717 --> 00:13:38,850
 Historie!
 To je ono!
 
-198
-00:13:38,850 --> 00:13:40,050
+197
+00:13:38,850 --> 00:13:40,222
 = Co je ono?
 
-199
-00:13:40,050 --> 00:13:42,317
+198
+00:13:40,222 --> 00:13:42,310
 Ten příběh z mojí knížky!
 
-200
-00:13:44,683 --> 00:13:45,317
+199
+00:13:44,488 --> 00:13:45,310
 Tady to máme.
 
-201
+200
 00:13:45,644 --> 00:13:47,910
 Poslouchejte…
 Před dávnými časy
 
-202
+201
 00:13:47,917 --> 00:13:51,250
 <i>byl tento ostrov
 nebezpečným a nepříjemným místem.</i>
 
-203
-00:13:51,888 --> 00:13:59,010
+202
+00:13:51,880 --> 00:13:59,133
 <i>Plný nebezpečných příšer, smrtících
 masožravých rostlin a pochybné pitné vody.</i>
 
-204
+203
 00:14:00,283 --> 00:14:04,750
 <i>Tehdy tam také žili tučňáci…
 Historie je nazývá pratučňáky.</i>
 
-205
-00:14:04,750 --> 00:14:07,583
+204
+00:14:04,750 --> 00:14:07,533
 <i>Jednoho dne
 šel jeden kmen na ryby.</i>
 
-206
-00:14:07,583 --> 00:14:09,417
+205
+00:14:07,580 --> 00:14:09,266
 <i>Dobře se bavili…</i>
 
-207
+206
 00:14:09,417 --> 00:14:13,983
 <i>Když tu náhle se
 pod ledem objevila děsivá příšera</i>
 
-208
-00:14:13,983 --> 00:14:15,317
+207
+00:14:13,980 --> 00:14:15,466
 <i>a vyhnala je.</i>
 
-209
-00:14:18,483 --> 00:14:23,650
+208
+00:14:18,480 --> 00:14:23,733
 <i>Od toho dne odehnala
 každého, kdo na led vstoupil.</i>
 
-210
+209
 00:14:24,117 --> 00:14:25,650
 <i>Takže už nemohli rybařit…</i>
 
-211
+210
 00:14:27,450 --> 00:14:30,817
 <i>Čekal je hladomor…
 Ale pak se v kmenu objevil hrdina. </i>
 
-212
+211
 00:14:30,817 --> 00:14:35,117
 <i>Přísahal, že si stvůru
 podrobí a nadobro ji zdolá!</i>
 
-213
+212
 00:14:35,783 --> 00:14:39,683
 <i>Hrdina vkročil
 na led a přivolal ji.</i>
 
-214
-00:14:39,683 --> 00:14:43,317
+213
+00:14:39,680 --> 00:14:43,066
 <i>Příšera vyrazila kupředu
 a odhalila zuby ostré jako břitva!</i>
 
-215
+214
 00:14:43,317 --> 00:14:45,783
 <i>Ale odvážný hrdina se ani nehnul…</i>
 
-216
+215
 00:14:45,783 --> 00:14:50,817
 <i>Příšera byla u něj
 a jakmile otevřela své čelisti…</i>
 
-217
+216
 00:14:52,183 --> 00:14:52,810
 <i>Olízla ho.</i>
 
-218
-00:14:54,550 --> 00:15:01,050
+217
+00:14:54,550 --> 00:15:01,066
 <i>Příšera nechtěla nikoho vystrašit,
 ale byla hrozně osamělá a hledala si kamaráda.</i>
 
-219
+218
 00:15:03,383 --> 00:15:07,450
 Vidíte?
 Nesuďte knihu podle obalu.
 
-220
+219
 00:15:07,450 --> 00:15:10,617
 Až na tuhle knihu,
 protože ta má moc pěkný obal.
 
-221
+220
 00:15:11,250 --> 00:15:14,283
 Myslíš, že je to ten
 stejný žralok jako v tom příběhu?
 
-222
-00:15:14,950 --> 00:15:17,683
+221
+00:15:15,688 --> 00:15:17,680
 To je něco!
 
-223
+222
 00:15:21,917 --> 00:15:25,783
 Takže se jen stačí
 spřátelit s pravěkým žroutem.
 
-224
-00:15:26,617 --> 00:15:30,083
+223
+00:15:26,610 --> 00:15:30,377
 Tak jo, Lorno.
 Budu v klidu.
 
-225
-00:15:30,083 --> 00:15:31,783
+224
+00:15:30,577 --> 00:15:31,780
 Super!
 
-226
+225
 00:15:34,483 --> 00:15:40,317
 Klid…
 Promiňte, pane pravěký žraloku.
 
-227
-00:15:40,317 --> 00:15:43,583
+226
+00:15:40,310 --> 00:15:43,466
 Jmenuji si Jangrah
 a i když jste zničil mou párty
 
-228
-00:15:43,583 --> 00:15:46,717
+227
+00:15:43,466 --> 00:15:46,710
 a ohrozil životy nás
 všech, chci se s vámi přátelit.
 
-229
-00:15:49,117 --> 00:15:53,483
+228
+00:15:48,955 --> 00:15:53,480
 Je to oficiální,
 Jangrah ruplo v kouli.
 
-230
+229
 00:15:53,483 --> 00:15:57,883
 Doufám, že se dohodneme.
 
-231
+230
 00:15:57,883 --> 00:16:02,083
 A taky ti chci dát možnost dokázat,
 že nejsi jen šílený vraždící stroj.
 
-232
+231
 00:16:03,183 --> 00:16:10,117
 I když jsem pět měsíců v kuse plánovala
 každý detail, aby tahle párty byla perfektní…
 
-233
-00:16:15,483 --> 00:16:16,783
+232
+00:16:15,288 --> 00:16:16,780
 Dej tomu volný průběh.
 
-234
+233
 00:16:17,483 --> 00:16:20,683
 Uvědomila jsem si, že i když
 všechno perfektně naplánuješ,
 
-235
+234
 00:16:21,350 --> 00:16:24,183
-Nic v životě nejde
+nic v životě nejde
 přesně podle plánu.
 
-236
+235
 00:16:25,017 --> 00:16:26,250
 Sbohem, starý příteli.
 
-237
-00:16:35,850 --> 00:16:39,683
+236
+00:16:35,511 --> 00:16:39,680
 Počkejte chvíli…
 Chceš to? Chceš?
 
-238
+237
 00:16:41,050 --> 00:16:41,850
 Překul se.
 
-239
+238
 00:16:44,383 --> 00:16:44,783
 Vyskoč.
 
-240
+239
 00:16:45,183 --> 00:16:46,183
 Pašák.
 
-241
+240
 00:16:46,717 --> 00:16:50,917
 Měla jsi pravdu, Lorno!
 Megalodon není příšera!
 
-242
-00:16:51,350 --> 00:16:52,817
+241
+00:16:51,222 --> 00:16:52,810
 Jenom si hrál!
 
-243
+242
 00:16:52,817 --> 00:16:55,883
 - Přesně jako v tom tvém příběhu.
 - V jakém?
 
-244
+243
 00:16:56,683 --> 00:16:59,117
 V tom, o kterém jsi
 zrovna… Neřeš to.
 
-245
-00:17:04,417 --> 00:17:06,017
+244
+00:17:04,266 --> 00:17:06,010
 Tak jo…
 Došli mi nápady.
 
-246
+245
 00:17:06,177 --> 00:17:07,350
 Co takhle panikařit?
 
-247
-00:17:09,883 --> 00:17:14,717
+246
+00:17:09,822 --> 00:17:14,710
 Navzdory blížící se zkáze,
 mi ještě žádný tučňák tolik nepřirostl k srdci.
 
-248
-00:17:15,550 --> 00:17:21,250
+247
+00:17:15,550 --> 00:17:21,050
 Počkejte! Pokud mě oči
 nešálí, tak na tom stvoření někdo stojí!
 
-249
-00:17:23,550 --> 00:17:24,250
+248
+00:17:23,444 --> 00:17:24,250
 To je Jangrah!
 
-250
+249
 00:17:26,822 --> 00:17:27,910
 Připravit na náraz!
 
-251
+250
 00:17:44,111 --> 00:17:46,910
 Jsem v klidu!
 
-252
+251
 00:17:53,517 --> 00:17:55,717
 Tak tohle se nevidí každý den.
 
-253
+252
 00:17:59,017 --> 00:18:00,350
 Přines.
 
-254
-00:18:03,850 --> 00:18:04,817
+253
+00:18:03,850 --> 00:18:05,111
 Dokázali jsme to!
 
-255
-00:18:12,555 --> 00:18:15,210
+254
+00:18:12,488 --> 00:18:15,210
 Počkat, kde je Jangrah?
 
-256
+255
 00:18:15,617 --> 00:18:17,883
 Když započítám
 hmotnost vytlačené vody…
 
-257
+256
 00:18:18,083 --> 00:18:20,210
 A když to vynásobíš
 vertikální hloubkou mořské hladiny…
 
-258
+257
 00:18:20,210 --> 00:18:22,650
 Tak šance,
 že Jangrah přežila jsou…
 
-259
+258
 00:18:23,383 --> 00:18:24,483
 = Ale ne.
 
-260
+259
 00:18:25,283 --> 00:18:28,917
 Dnes si moře
 vyžádalo dvě krásné oběti.
 
-261
+260
 00:18:30,083 --> 00:18:32,483
 Jangrah a mou krásnou loď.
 
-262
+261
 00:18:36,617 --> 00:18:38,650
 Tahle je pro tebe, Jangrah.
 
-263
+262
 00:18:41,883 --> 00:18:43,917
 Podívejte!
 To je Jangrah!
 
-264
-00:18:49,083 --> 00:18:52,983
+263
+00:18:49,080 --> 00:18:52,955
 Už je to v pořádku!
 A tenhle byl jenom osamělý.
 
-265
+264
 00:18:52,983 --> 00:18:57,950
 Po 65 milionech letech
 u ledu prostě taky chtěl jít na párty.
 
-266
-00:18:58,583 --> 00:19:02,783
+265
+00:18:58,911 --> 00:19:02,780
 Nemám pravdu?
 Hodný chlapec… Moc hodný.
 
-267
+266
 00:19:02,783 --> 00:19:05,683
 Neměl jsem
 vysazovat prášky.
 
-268
+267
 00:19:10,750 --> 00:19:14,850
 Mazák Rookie se vám hlásí
 živě z oslav Megalodonova měsíce.
 
-269
-00:19:15,850 --> 00:19:21,117
+268
+00:19:15,850 --> 00:19:20,917
 Kde se všichni, a to včetně
 mě, zbláznili do žraloka.
 
-270
+269
 00:19:21,117 --> 00:19:24,417
 Třeštidlo292!
 Ty žiješ!
 
-271
+270
 00:19:24,417 --> 00:19:26,583
 Vločko!
 Já žiju!
 
-272
-00:19:28,117 --> 00:19:29,317
+271
+00:19:27,955 --> 00:19:29,310
 Jste v pořádku, tučňáci?
 
-273
+272
 00:19:34,417 --> 00:19:37,817
 Herbert P. Medvěd?
 Tos byl celou dobu ty?
 
-274
+273
 00:19:37,817 --> 00:19:39,983
 Už nevěřím ničemu.
 
-275
+274
 00:19:39,983 --> 00:19:43,883
 Nikdo ani hnout!
 Nebo tomu krabovi zmrzne mozek!
 
-276
-00:19:44,783 --> 00:19:45,583
+275
+00:19:44,644 --> 00:19:45,580
 Omlouvám se.
 
-277
+276
 00:19:48,050 --> 00:19:49,717
 Dobře si to zahrál, Klutzy.
 
-278
+277
 00:19:50,317 --> 00:19:52,283
 Myslela jsem,
 že divnější už být nemůže.
 
-279
-00:19:55,350 --> 00:19:57,850
+278
+00:19:55,350 --> 00:19:57,688
 Pozor!
 Můj milovaný Migrátor!
 
-280
+279
 00:19:57,850 --> 00:20:01,150
 Myslel jsem,
 že už tě neuvidím.
 
-281
+280
 00:20:02,150 --> 00:20:02,817
 Pojď ke mně!
 
-282
+281
 00:20:04,650 --> 00:20:05,750
 Pašák!
 
-283
+282
 00:20:06,550 --> 00:20:11,350
 Jsem na tebe tak hrdá, Jangrah.
 Fakt si to brala v klidu.
 
-284
-00:20:11,350 --> 00:20:12,917
+283
+00:20:11,355 --> 00:20:12,911
 Takže už žádné seznamy?
 
-285
+284
 00:20:12,917 --> 00:20:15,583
 Myslím, že na jeden den
 jsme si seznamů užili až až.
 
-286
+285
 00:20:18,050 --> 00:20:19,383
 Víš, že jsem
 to tak nemyslela.
 
-287
-00:20:20,117 --> 00:20:22,183
+286
+00:20:19,977 --> 00:20:22,180
 Omluvit se seznamu.
 Hotovo!
 
-288
+287
 00:20:23,250 --> 00:20:28,617
 Tak jo, už žádný stres, žádné
 starosti a díkybohu už žádné příšery.
 
-289
+288
 00:20:32,400 --> 00:20:35,480
 Překlad: Valada06, Jenda, Chubbop
 Korektura: Lisured, Chubbop
 
-290
+289
 00:20:35,480 --> 00:20:37,650
 www.fan-club-penguin.cz
 
